@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	
 	int n,digit,num=0,i=0;
-	cout<<"Program to convert binary number into decimal number"<<end;
+	cout<<"Program to convert binary number into decimal number"<<endl;
 	cout<<"Enter a binary number :";
 	cin>>n;
 	while(n!=0){
